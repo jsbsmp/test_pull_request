@@ -1,4 +1,4 @@
-# test_pull_request
+# How to test pull request
 
 1. Clone 
 2. Add branch 
