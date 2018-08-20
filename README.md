@@ -13,3 +13,10 @@
 3. Checkout conflicting branch
 4. Rebase with master `git rebase master`
 5. Push conflicting branch
+
+# Alternative
+
+1. On conflictign branch:
+2. In IntelliJ - Pull (Branches to merge: origin/master)
+4. Resolve conflicts
+5. Push conflicting branch
